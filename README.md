@@ -6,12 +6,12 @@
 
   The endpoints is categorized into nine folder.
 
-  [1.Authentication]()
-  [2.Profile]()
-  [3.User]()
-  [4.Diet Preference]()
-  [5.Exercise]()
-  [6.Goal]()
-  [7.Level]()
-  [8.Target Muscle]()
-  [9.Workout]()
+  - [Authentication](https://github.com/AdityaRahmanDev/Documentation-Ap/blob/main/Authentication.md)
+  - [Profile]()
+  - [User]()
+  - [Diet Preference]()
+  - [Exercise]()
+  - [Goal]()
+  - [Level]()
+  - [Target Muscle]()
+  - [Workout]()
