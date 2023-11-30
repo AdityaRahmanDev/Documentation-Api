@@ -1,4 +1,4 @@
-# Diet Preference
+# Exercise
 
 This Api will be used to authenticate new user
 
